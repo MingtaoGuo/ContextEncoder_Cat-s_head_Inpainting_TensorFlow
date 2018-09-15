@@ -45,4 +45,4 @@ Download the cat dataset, then unzip it and put them into the file 'cat_dataset'
 |g|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/19.jpg)|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/20.jpg)|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/21.jpg)|
 |h|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/22.jpg)|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/23.jpg)|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/24.jpg)|
 # Acknowledgement
-
+[RelativisticGAN](https://github.com/AlexiaJM/RelativisticGAN)-AlexiaJM
