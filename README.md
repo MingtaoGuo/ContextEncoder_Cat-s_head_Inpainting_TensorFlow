@@ -34,4 +34,13 @@ Download the cat dataset, then unzip it and put them into the file 'cat_dataset'
 5. cv2
 6. glob
 # Results
-wait...
+|cat|1|2|3|
+|-|-|-|-|
+|a|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/1.jpg)|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/2.jpg)|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/3.jpg)|
+|b|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/4.jpg)|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/5.jpg)|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/6.jpg)|
+|c|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/7.jpg)|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/8.jpg)|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/9.jpg)|
+|d|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/10.jpg)|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/11.jpg)|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/12.jpg)|
+|e|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/13.jpg)|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/14.jpg)|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/15.jpg)|
+|f|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/16.jpg)|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/17.jpg)|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/18.jpg)|
+|g|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/19.jpg)|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/20.jpg)|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/21.jpg)|
+|h|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/22.jpg)|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/23.jpg)|![](https://github.com/MingtaoGuo/ContextEncoder_Cat-s_head_Inpainting_TensorFlow/blob/master/IMAGES/24.jpg)|
